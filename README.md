@@ -1,0 +1,1 @@
+# firebase-timestamp-serializable
